@@ -6,7 +6,7 @@ import os
 
 # Load environment variables
 load_dotenv()
-openai.api_key = st.secrets("OPENAI_API_KEY")
+openai.api_key = st.secrets["OPENAI_API_KEY"]
 
 class DebateHelper:
     """A class that provides debate and declamation assistance."""
