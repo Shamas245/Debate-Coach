@@ -8,7 +8,7 @@ Welcome to **Debate Coach**, your ultimate companion for practicing and masterin
 - **Model United Nations**: Simulate MUN sessions by generating stances and diplomatic language based on global issues.
 
 ## Demo
-Try the app here: [debatecouch-i2styqmvhkfwo6xxuzwbrb](https://share.streamlit.io/username/repository-name/main/app.py)
+Try the app here: [debate-couch](https://share.streamlit.io/username/repository-name/main/app.py)
 
 ## How It Works
 1. Select your desired debate style: Declamation, Parliamentary Debate, or MUN.
